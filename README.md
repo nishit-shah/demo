@@ -1,2 +1,2 @@
-some text for readme file
+safe update on branch
 this is a safe update
